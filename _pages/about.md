@@ -53,7 +53,7 @@ My **research interest** includes **AI for Science (Bioinformatics, Chemistry)**
   [[Paper](https://arxiv.org/pdf/2308.06288)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[Code](https://github.com/hrlblab/spatial_pathomics)]
 
 
-- [**SPIE Medical Imaging 2024**] Auto-encoding score distribution regression for action quality assessment
+- [**Neural Computing and Applications**] Auto-encoding score distribution regression for action quality assessment
 
   Boyu Zhang\*, **Jiayuan Chen**\*, Yinfei Xu, Hui Zhang, Xu Yang, Xin Geng; (* equal contribution)
 
@@ -62,11 +62,11 @@ My **research interest** includes **AI for Science (Bioinformatics, Chemistry)**
 
 
 # 📖 Educations
-- *2023.08 - Now* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Columbus, USA
+- *2023.08 - Now * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Columbus, USA
 
   PhD student in Computer Science and Engineering @ The Ohio State University
 
-- *2018.09 - 2022.06*, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nanjing, China
+- *2018.09 - 2022.06* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nanjing, China
 
   Undergraduate student at @ Southeast University
 
