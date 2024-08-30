@@ -17,42 +17,69 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi, nice to meet you!
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am Jiayuan Chen, a first-year PhD student at [The Ohio State University](https://www.osu.edu/), advised by Prof. [Ping Zhang](https://www.pingzhang.net/). Previously, I earned my bachelor degree at [Southeast University](https://www.seu.edu.cn/english/).
+
+My **research interest** includes **AI for Science (Bioinformatics, Chemistry)**, **AI for Healthcare**, and **deep learning**.
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ 
+- *2023.08*: &nbsp;🎉 Embarking on a new journey at The Ohio State University. 
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [**IJCAI 2024**] Predictive Modeling with Temporal Graphical Representation on Electronic Health Records
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+  **Jiayuan Chen**, Changchang Yin, Yuanlong Wang, Ping Zhang
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  [[Paper](https://arxiv.org/pdf/2405.03943)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[Code](https://github.com/The-Real-JerryChen/TRANS)]
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [**AAAI 2024**] Uncertainty-Aware Yield Prediction with Multimodal Molecular Features
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  **Jiayuan Chen**, Kehan Guo, Zhen Liu, Olexandr Isayev, Xiangliang Zhang
+
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28668/29297)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[Code](https://github.com/The-Real-JerryChen/reaction_yield_prediction)]
+
+
+- [**SPIE Medical Imaging 2024**] Spatial pathomics toolkit for quantitative analysis of podocyte nuclei with histology and spatial transcriptomics data in renal pathology
+
+  **Jiayuan Chen**\*, Yu Wang\*, Ruining Deng, Quan Liu, Can Cui, Tianyuan Yao, Yilin Liu, Jianyong Zhong, Agnes B Fogo, Haichun Yang, Shilin Zhao, Yuankai Huo; (* equal contribution)
+
+  [[Paper](https://arxiv.org/pdf/2308.06288)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[Code](https://github.com/hrlblab/spatial_pathomics)]
+
+
+- [**SPIE Medical Imaging 2024**] Auto-encoding score distribution regression for action quality assessment
+
+  Boyu Zhang\*, **Jiayuan Chen**\*, Yinfei Xu, Hui Zhang, Xu Yang, Xin Geng; (* equal contribution)
+
+  [[Paper](https://arxiv.org/pdf/2111.11029)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[Code](https://github.com/Luciferbobo/DAE-AQA)]
+
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.08 - Now* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Columbus, USA
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+  PhD student in Computer Science and Engineering @ The Ohio State University
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2018.09 - 2022.06*, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nanjing, China
+
+  Undergraduate student at @ Southeast University
+
+# 💻 Work Experience
+- *2023.03 - 2023.07* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Taizhou, China
+
+  Stay-at-home person due to the pending approval of my U.S. visa 😊
+
+- *2021.09 - 2023.02* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Naning, China
+
+  MLE @ Nanjing AI Research Institute
+
+- *2021.06 - 2021.09* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beijing, China
+
+  Research intern @ China Telecom
+
