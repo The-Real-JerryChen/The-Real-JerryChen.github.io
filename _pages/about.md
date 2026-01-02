@@ -41,12 +41,12 @@ My **research interest** includes **AI for Bioinformatics**, **AI for Healthcare
  <details>
   <summary><strong>Previous News</strong></summary>
 
-  <br/>
+  <ul>
+  <li><em>2024.07</em>: 📄 One paper accepted by <strong>IJCAI 2024</strong>, see you in Jeju, Korea</li>
+  <li><em>2024.07</em>: 📄 One paper accepted by <strong>AAAI 2024</strong>, see you in Vancouver, Canada</li>
 
-  - *2024.07*: 📄 One paper accepted by **IJCAI 2024**, see you in **Jeju, Korea**
-  - *2024.02*: 📄 One paper accepted by **AAAI 2024**, see you in **Vancouver, Canada**
-
-  - *2023.08*: 🎉 Embarking on a new journey at **The Ohio State University**
+  <li><em>2023.08</em>: 🎉 Embarking on a new journey at <strong>The Ohio State University</strong></li>
+  </ul>
 
 </details>
 </div>
@@ -78,58 +78,85 @@ My **research interest** includes **AI for Bioinformatics**, **AI for Healthcare
 <summary><strong>EHR & Clinical Prediction</strong></summary>
 
 
-- [Predictive Modeling with Temporal Graphical Representation on Electronic Health Records](https://arxiv.org/pdf/2405.03943) **[IJCAI 2024]**   
-  **Jiayuan Chen**, Changchang Yin, Yuanlong Wang, et al.
+<ul style="margin: 0; padding-left: 1.2em;">
+  <li>
+    <a href="https://arxiv.org/pdf/2405.03943">
+      Predictive Modeling with Temporal Graphical Representation on Electronic Health Records
+    </a>
+    <strong>[IJCAI 2024]</strong><br/>
+    <strong>Jiayuan Chen</strong>, Changchang Yin, Yuanlong Wang, et al.
+  </li>
 
+  <li>
+    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12150734/">
+      Comparison of machine learning models in predicting mental health sequelae following concussion in youth
+    </a>
+    <strong>[AMIA Summit 2025]</strong><br/>
+    Jin Peng, <strong>Jiayuan Chen</strong>, Changchang Yin, et al.
+  </li>
 
-- [Comparison of machine learning models in predicting mental health sequelae following concussion in youth](https://pmc.ncbi.nlm.nih.gov/articles/PMC12150734/) **[AMIA Summit 2025]**   
-  Jin Peng, **Jiayuan Chen**, Changchang Yin, et al.
-
-
-- **[Ongoing project]** Multi-Agent Systems for EHR and Wearable Device Data
+  <li>
+    <strong>[Ongoing Project]</strong>
+    Multi-Agent Systems for EHR and Wearable Device Data
+  </li>
+</ul>
 </details>
+
+<br/>
 
 <details open>
 <summary><strong>Medical Imaging & VLM</strong></summary>
 
 
-- [The Boundaries of Fair AI in Medical Image Prognosis: A Causal Perspective](https://openreview.net/forum?id=O1yi3lqp97) **[NeurIPS 2025]** 
+<ul style="margin: 0; padding-left: 1.2em;">
+  <li>
+    <a href="https://openreview.net/forum?id=O1yi3lqp97">
+      The Boundaries of Fair AI in Medical Image Prognosis: A Causal Perspective
+    </a>
+    <strong>[NeurIPS 2025]</strong><br/>
+    Thai-Hoang Pham, <strong>Jiayuan Chen</strong>, Seungyeon Lee, et al.
+  </li>
 
-  Thai-Hoang Pham, **Jiayuan Chen**, Seungyeon Lee, et al.  
+  <li>
+    <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202500255">
+      MedVH: Toward systematic evaluation of hallucination for large vision language models in the medical context
+    </a>
+    <strong>[Advanced Intelligent Systems]</strong><br/>
+    Zishan Gu, <strong>Jiayuan Chen</strong>, Fenglin Liu, et al.
+  </li>
 
-- [MedVH: Toward systematic evaluation of hallucination for large vision language models in the medical context](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202500255) **[Advanced Intelligent Systems]** 
-
-  Zishan Gu, **Jiayuan Chen**, Fenglin Liu, et al. 
-
-- [A Proactive Agent Collaborative Framework for Zero‐Shot Multimodal Medical Reasoning](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202400840)  **[Advanced Intelligent Systems]** 
-
-  Zishan Gu, Fenglin Liu, **Jiayuan Chen**, et al. 
-
-
+  <li>
+    <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202400840">
+      A Proactive Agent Collaborative Framework for Zero‐Shot Multimodal Medical Reasoning
+    </a>
+    <strong>[Advanced Intelligent Systems]</strong><br/>
+    Zishan Gu, Fenglin Liu, <strong>Jiayuan Chen</strong>, et al.
+  </li>
+</ul>
 </details>
-
-
-
-
-
 
 ---
 
 <details>
-
-
 <summary><strong>Others</strong></summary>
 
-<br/>
+<ul style="margin: 0; padding-left: 1.2em;">
+  <li>
+    <a href="https://arxiv.org/pdf/2111.11029">
+      Spatial pathomics toolkit for quantitative analysis of podocyte nuclei with histology and spatial transcriptomics data in renal pathology
+    </a>
+    <strong>[Neural Computing and Applications]</strong><br/>
+    Boyu Zhang, <strong>Jiayuan Chen</strong>, Yinfei Xu, et al.
+  </li>
 
-- [Spatial pathomics toolkit for quantitative analysis of podocyte nuclei with histology and spatial transcriptomics data in renal pathology](https://arxiv.org/pdf/2111.11029) **[Neural Computing and Applications]**  
-  Boyu Zhang, **Jiayuan Chen**, Yinfei Xu, et al.
-
-- [Tinynerf: Towards 100 x compression of voxel radiance fields](https://ojs.aaai.org/index.php/AAAI/article/view/25469) **[AAAI 2023]**  
-  Tianli Zhao, **Jiayuan Chen**, Cong Leng, et al.
-
-
-
+  <li>
+    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25469">
+      TinyNeRF: Towards 100× compression of voxel radiance fields
+    </a>
+    <strong>[AAAI 2023]</strong><br/>
+    Tianli Zhao, <strong>Jiayuan Chen</strong>, Cong Leng, et al.
+  </li>
+</ul>
 </details>
 
 # 📖 Educations
