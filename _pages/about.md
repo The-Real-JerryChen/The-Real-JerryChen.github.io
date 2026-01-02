@@ -43,7 +43,7 @@ My **research interest** includes **AI for Bioinformatics**, **AI for Healthcare
 
   <ul>
   <li><em>2024.07</em>: 📄 One paper accepted by <strong>IJCAI 2024</strong>, see you in Jeju, Korea</li>
-  <li><em>2024.07</em>: 📄 One paper accepted by <strong>AAAI 2024</strong>, see you in Vancouver, Canada</li>
+  <li><em>2023.12</em>: 📄 One paper accepted by <strong>AAAI 2024</strong>, see you in Vancouver, Canada</li>
 
   <li><em>2023.08</em>: 🎉 Embarking on a new journey at <strong>The Ohio State University</strong></li>
   </ul>
@@ -160,7 +160,7 @@ My **research interest** includes **AI for Bioinformatics**, **AI for Healthcare
 </details>
 
 # 📖 Educations
-- *2023.08 - Now * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Columbus, USA
+- *2023.08 - Now* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Columbus, USA
 
   PhD student in Computer Science and Engineering @ The Ohio State University
 
