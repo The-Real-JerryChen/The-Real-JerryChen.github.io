@@ -30,7 +30,8 @@ My **research interest** includes **AI for Bioinformatics**, **AI for Healthcare
 
 
 # 🔥 News
-
+- *2026.02*: 📄 One paper accepted by **CVPR 2026**, see you in **Denver, USA**
+  
 - *2025.09*: 📄 One paper accepted by **NeurIPS 2025**, see you in **San Diego, USA**
 
 - *2025.03*: 📄 One paper accepted by **ICCV 2025**, see you in **Honolulu, USA**
@@ -59,6 +60,9 @@ My **research interest** includes **AI for Bioinformatics**, **AI for Healthcare
 
 ## AI for Bioinformatics & Drug Discovery
 
+- [Intervention-Aware Multiscale Representation Learning from Imaging Phenomics and Perturbation Transcriptomics] **[CVPR 2026]**  
+  **Jiayuan Chen**, Ruoqi Liu,  Zishan Gu, Ping Zhang
+  
 - [Integrating Biological Knowledge for Robust Microscopy Image Profiling on De Novo Cell Lines](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_Integrating_Biological_Knowledge_for_Robust_Microscopy_Image_Profiling_on_De_ICCV_2025_paper.html) **[ICCV 2025 Highlight]**  
   **Jiayuan Chen**, Thai-Hoang Pham,  Yuanlong Wang, Ping Zhang
 
@@ -68,8 +72,7 @@ My **research interest** includes **AI for Bioinformatics**, **AI for Healthcare
 
 - [Spatial pathomics toolkit for quantitative analysis of podocyte nuclei with histology and spatial transcriptomics data in renal pathology](https://arxiv.org/pdf/2308.06288) **[SPIE Medical Imaging 2024]**  
   **Jiayuan Chen**, Yu Wang, Ruining Deng, et al.
-
-- **[Ongoing Project]** Drug Target Discovery via scRNA-seq and Cell Painting Images
+  
 ---
 
 ## AI for Healthcare
