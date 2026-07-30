@@ -21,9 +21,9 @@ Hi, nice to meet you!
 
 
 
-I am Jiayuan Chen, a third-year PhD student at [The Ohio State University](https://www.osu.edu/), advised by Prof. [Ping Zhang](https://www.pingzhang.net/). Previously, I earned my bachelor degree at [Southeast University](https://www.seu.edu.cn/english/).
+I am Jiayuan Chen, a fourth-year PhD candidate at [The Ohio State University](https://www.osu.edu/), advised by Prof. [Ping Zhang](https://www.pingzhang.net/). Previously, I earned my bachelor degree at [Southeast University](https://www.seu.edu.cn/english/).
 
-**Actively seeking 2026 Summer Internships**  
+**Actively seeking 2027 Summer Internships**  
 
 My **research interest** includes **AI for Bioinformatics**, **AI for Healthcare**, and **AI Agents**.
 
