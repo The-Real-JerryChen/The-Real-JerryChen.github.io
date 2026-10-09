@@ -30,6 +30,9 @@ My **research interest** includes **AI for Bioinformatics**, **AI for Healthcare
 
 
 # 🔥 News
+
+- *2026.09*: 📄 One paper accepted by **NeurIPS 2026**, see you in **Sydney, AUS**
+
 - *2026.02*: 📄 One paper accepted by **CVPR 2026**, see you in **Denver, USA**
   
 - *2025.09*: 📄 One paper accepted by **NeurIPS 2025**, see you in **San Diego, USA**
@@ -60,7 +63,11 @@ My **research interest** includes **AI for Bioinformatics**, **AI for Healthcare
 
 ## AI for Bioinformatics & Drug Discovery
 
-- [Intervention-Aware Multiscale Representation Learning from Imaging Phenomics and Perturbation Transcriptomics] **[CVPR 2026]**  
+- [From retrieval to reasoning: Agentic mechanism prediction from cell painting profiles](https://arxiv.org/pdf/2609.36406) **[NeurIPS 2026]**
+
+  **Jiayuan Chen**, Botao Yu, Tianyu Liu, Thai-Hoang Pham, Ping Zhang
+
+- [Intervention-Aware Multiscale Representation Learning from Imaging Phenomics and Perturbation Transcriptomics](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_Intervention-Aware_Multiscale_Representation_Learning_from_Imaging_Phenomics_and_Perturbation_Transcriptomics_CVPR_2026_paper.html) **[CVPR 2026]**  
   **Jiayuan Chen**, Ruoqi Liu,  Zishan Gu, Ping Zhang
   
 - [Integrating Biological Knowledge for Robust Microscopy Image Profiling on De Novo Cell Lines](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_Integrating_Biological_Knowledge_for_Robust_Microscopy_Image_Profiling_on_De_ICCV_2025_paper.html) **[ICCV 2025 Highlight]**  
