@@ -30,6 +30,7 @@ My **research interest** includes **AI for Bioinformatics**, **AI for Healthcare
 
 
 # 🔥 News
+- **Check our new project** [Pheno AI Scientist](https://phenoscientist-web.vercel.app/)!
 
 - *2026.09*: 📄 One paper accepted by **NeurIPS 2026**, see you in **Sydney, AUS**
 
